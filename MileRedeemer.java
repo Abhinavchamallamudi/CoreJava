@@ -168,6 +168,7 @@ public class MileRedeemer {
   return dests;
   
  }
+ //Gets Remaining miles
   public int getRemainingMiles( )
  {
   return remainingMiles;
