@@ -56,10 +56,10 @@ public class MileRedemptionApp {
   while("y".equals(choice) || "yes".equals(choice))
   {
    
-   System.out.print("Please enter your client's accumulated Frequent Flyer Miles: ");
+   System.out.print("enter your client's accumulated Frequent Flyer Miles: ");
    flyerMiles = userInput.nextInt();
    
-   System.out.print("\nPlease enter your client's month of departure (1-12): ");
+   System.out.print("\n enter your client's month of departure (1-12): ");
    departureMonth = userInput.nextInt();
    
    
